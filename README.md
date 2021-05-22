@@ -2,5 +2,5 @@
 
 
 📫 How to reach me: 
-- [Email](mailto:ronaldichandra@mail.ru)
+- [Email](mailto:ronaldichdr@gmail.com)
 - [Telegram](https://t.me/ronaldichdr)
