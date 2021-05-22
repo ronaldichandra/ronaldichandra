@@ -1,4 +1,4 @@
-## Hi, i'm Ronaldi 🐻
+## Hi, i'm Ronaldi
 
 
 📫 How to reach me: 
