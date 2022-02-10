@@ -3,4 +3,4 @@
 
 📫 How to reach me: 
 - [Email](mailto:ronaldichdr@gmail.com)
-- [Telegram](https://t.me/ronaldichdr)
+- [Telegram](https://t.me/ronaldichandra)
