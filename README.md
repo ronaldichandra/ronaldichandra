@@ -1,1 +1,1 @@
-![ronaldichandra](https://raw.githubusercontent.com/ronaldichandra/ronaldichandra/main/card5.jpg)
+![ronaldichandra](https://raw.githubusercontent.com/ronaldichandra/ronaldichandra/main/card6.jpg)
