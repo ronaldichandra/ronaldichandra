@@ -8,8 +8,8 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ronaldichdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronaldichdr" width="45" /></a>
-<a href="https://instagram.com/ronaldichandra_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="ronaldichandra_" width="45" /></a>
+<a href="https://fb.com/ronaldichdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronaldichdr" width="42" /></a>
+<a href="https://instagram.com/ronaldichandra_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="ronaldichandra_" width="42" /></a>
 </p>
 
 <details>
